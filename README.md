@@ -1,1 +1,1 @@
-
+This repository is a collection of my HTML and CSS learning journey. It includes various projects, practice exercises, and useful resources that will help me (and others) build beautiful and responsive websites.
